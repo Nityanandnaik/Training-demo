@@ -1,2 +1,4 @@
 # Training-demo
-Author - Nityanand
+Author
+<br>
+Nityanand
